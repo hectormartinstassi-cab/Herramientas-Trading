@@ -1,0 +1,5 @@
+{
+  "name": "ArgBond Analytics",
+  "description": "Dashboard de análisis financiero para títulos de renta fija argentina (Bonos y Letras) de corto plazo, con proyección de escenarios y arbitraje.",
+  "requestFramePermissions": []
+}
